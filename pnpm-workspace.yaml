@@ -1,0 +1,9 @@
+packages:
+  - packages/*
+  - packages-serverless/*
+  - packages-legacy/*
+  - packages-resource/*
+  - site
+  - site/example/*
+  - benchmark/fixtures/midway-request-scope
+  - benchmark/fixtures/midway-request-scope-with-hooks
